@@ -6,7 +6,8 @@
 </h4>
 
 
-Projeto desenvolvido durante a semana OmniStack 11.0 🚀 [ [Rocketseat](https://github.com/Rocketseat) ]. O projeto envolve o desenvolvimento de uma aplicação do zero, trabalhado seu back-end, front-end e Mobile.
+Projeto desenvolvido durante a semana OmniStack 11.0 🚀 [ [Rocketseat](https://github.com/Rocketseat) ]. T
+rabalhando back-end, front-end e Mobile.
 
 BeTheHero, uma aplicação que tem o de objetivo facilitar o contato com  ONG's para contribuições financeiras.
 
